@@ -39,6 +39,8 @@ To score one opportunity in the browser without an agent, use the free [MEDDICC 
 
 To check one Proof of Value plan in the browser, use the free [Proof of Value plan checker](https://topmoller.com/tools/proof-of-value-plan/).
 
+To plan and record Business Value Assessment interviews in the browser, use the free [Business Value Assessment template](https://topmoller.com/tools/business-value-assessment-template/).
+
 For data on what sales engineer job ads mention and the pay they post, see the [SE Job Ad Index](https://topmoller.com/experiments/sales-engineer-job-ads/) (1,502 ads at 250 B2B software companies, November 2026).
 
 ## License

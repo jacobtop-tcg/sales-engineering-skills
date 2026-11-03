@@ -69,4 +69,6 @@ Followed by: agreed business outcomes (with economic buyer confirmation), assump
 - An outcome the economic buyer has not agreed is unresolved.
 - Proof criteria that do not trace to an agreed outcome should be questioned.
 
+A browser version of the same template, for people without an agent: [Business Value Assessment template](https://topmoller.com/tools/business-value-assessment-template/).
+
 Based on: [What stakeholder interviews add to a Business Value Assessment](https://topmoller.com/articles/business-value-assessment-run-as-interviews/)
