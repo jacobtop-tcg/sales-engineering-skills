@@ -55,3 +55,5 @@ Example entry: "The IT manager named the finance director as the economic buyer.
 - An unmapped paper process makes the signature date an assumption.
 
 Based on: [MEDDICC questions to ask, and what counts as an answer](https://topmoller.com/articles/meddicc-questions-and-what-counts-as-an-answer/), [MEDDICC Metrics examples: product results and business value](https://topmoller.com/articles/metrics-in-meddicc-product-numbers-and-business-numbers/), [MEDDICC decision criteria: examples written by buyers](https://topmoller.com/articles/meddicc-decision-criteria-examples-written-by-buyers/) and [MEDDPICC paper process: examples from buyers' supplier rules](https://topmoller.com/articles/meddpicc-paper-process/)
+
+A browser version of the same check, for people without an agent: [MEDDICC scorecard](https://topmoller.com/tools/meddicc-scorecard/).
