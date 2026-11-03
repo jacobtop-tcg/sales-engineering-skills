@@ -70,6 +70,6 @@ The filled plan with an evidence-level column (champion / owner / done) and the 
 - A date from the seller's forecast or the contact, without the owner's confirmation, is unconfirmed.
 - A plan ending at signature lacks the handover.
 
-Based on: [Mutual action plan: what it holds and what it proves](https://topmoller.com/articles/mutual-action-plan-what-it-holds-and-proves/)
+Based on: [Mutual action plan template: what it holds and proves](https://topmoller.com/articles/mutual-action-plan-what-it-holds-and-proves/)
 
 The template as a spreadsheet to fill in: [Excel](https://topmoller.com/downloads/mutual-action-plan-template.xlsx) or [CSV](https://topmoller.com/downloads/mutual-action-plan-template.csv).
