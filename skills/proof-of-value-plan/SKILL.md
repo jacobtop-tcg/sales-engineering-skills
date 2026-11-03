@@ -54,4 +54,6 @@ A Proof of Concept tests whether the product works in the customer's environment
 - If the pilot end date is the only date in the plan, the decision date is missing.
 - If the team reports on its proofs, keep technical wins apart from deals won.
 
+A browser version of the same check, for people without an agent: [Proof of Value plan checker](https://topmoller.com/tools/proof-of-value-plan/).
+
 Based on: [What is a Proof of Value, and what does it need to prove?](https://topmoller.com/articles/what-is-a-proof-of-value/) and [Proof of concept vs pilot: what the agreement leaves out](https://topmoller.com/articles/proof-of-concept-vs-pilot-agreement/)

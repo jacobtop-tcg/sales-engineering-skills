@@ -37,6 +37,8 @@ Written by Jacob Top Møller, who trains and advises sales engineers. More at ht
 
 To score one opportunity in the browser without an agent, use the free [MEDDICC scorecard](https://topmoller.com/tools/meddicc-scorecard/).
 
+To check one Proof of Value plan in the browser, use the free [Proof of Value plan checker](https://topmoller.com/tools/proof-of-value-plan/).
+
 For data on what sales engineer job ads mention and the pay they post, see the [SE Job Ad Index](https://topmoller.com/experiments/sales-engineer-job-ads/) (1,502 ads at 250 B2B software companies, November 2026).
 
 ## License
