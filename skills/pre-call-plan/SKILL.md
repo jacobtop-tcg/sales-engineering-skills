@@ -82,4 +82,6 @@ Beside each assumption, write what the customer said: confirmed, changed or stil
 - A plan whose main outcome is "book a demo" has skipped the problem and the champion.
 - A business value row with no cost or consequence question can collect requirements and leave the business consequence vague.
 
+A browser version of the same plan, for people without an agent: [Pre-call plan template](https://topmoller.com/tools/pre-call-plan-template/).
+
 Based on: [Pre-call planning for a first enterprise software meeting](https://topmoller.com/articles/pre-call-planning-first-enterprise-software-meeting/)

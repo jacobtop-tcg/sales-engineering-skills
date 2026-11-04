@@ -41,6 +41,8 @@ To check one Proof of Value plan in the browser, use the free [Proof of Value pl
 
 To plan and record Business Value Assessment interviews in the browser, use the free [Business Value Assessment template](https://topmoller.com/tools/business-value-assessment-template/).
 
+To prepare a first customer meeting in the browser, use the free [pre-call plan template](https://topmoller.com/tools/pre-call-plan-template/).
+
 For data on what sales engineer job ads mention and the pay they post, see the [SE Job Ad Index](https://topmoller.com/experiments/sales-engineer-job-ads/) (1,502 ads at 250 B2B software companies, November 2026).
 
 ## License
