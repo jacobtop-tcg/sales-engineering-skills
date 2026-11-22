@@ -31,6 +31,10 @@ cd skills && zip -r mutual-action-plan.zip mutual-action-plan
 
 Codex and other agents that read SKILL.md: place the folder under that agent's skills directory.
 
+## Related
+
+For the whole sales team, sellers, sales leaders and customer success included, see [b2b-sales-skills](https://github.com/jacobtop-tcg/b2b-sales-skills): meeting prep, call debrief, deal review, forecast categories, champion check and QBR prep.
+
 ## About
 
 Written by Jacob Top Møller, who trains and advises sales engineers. More at https://topmoller.com/articles/ .
